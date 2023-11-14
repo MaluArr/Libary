@@ -9,7 +9,7 @@ Esse sistema permite que o usuário realize operações como adicionar, buscar, 
    - Abra um terminal na pasta contendo o livraria_mlva.c
    - Execute o seguinte comando:
      ```bash
-     gcc -o main arquivo.c
+     gcc -o main livrari_mlva.c
      ```
 
 2. Executar o programa:
