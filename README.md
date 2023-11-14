@@ -6,7 +6,7 @@ Esse sistema permite que o usuário realize operações como adicionar, buscar, 
 ## Instruções para Executar o Código por Linha de Comando
 
 1. Compilar o código fonte:
-   - Abra um terminal na pasta contendo o arquivo .c
+   - Abra um terminal na pasta contendo o livraria_mlva.c
    - Execute o seguinte comando:
      ```bash
      gcc -o main arquivo.c
