@@ -1,6 +1,4 @@
-=======================================================
 # Sistema de Gerenciamento de Livros
-=======================================================
 
 Este é um sistema para o gerenciamento de livros implementado na linguagem C. 
 Esse sistema permite que o usuário realize operações como adicionar, buscar, remover e salvar em um arquivo.
