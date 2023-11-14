@@ -3,7 +3,7 @@
 Este é um sistema para o gerenciamento de livros implementado na linguagem C. 
 Esse sistema permite que o usuário realize operações como adicionar, buscar, remover e salvar em um arquivo.
 
-#Instruções para Executar o Código por Linha de Comando
+# Instruções para Executar o Código por Linha de Comando
 
 1. Compilar o código fonte:
    - Abra um terminal na pasta contendo o arquivo .c
@@ -20,7 +20,7 @@ Esse sistema permite que o usuário realize operações como adicionar, buscar, 
 
 3. Seguir as instruções do menu exibido no console para interagir com o programa.
 
-#Lista de Mudanças no Código Original
+# Lista de Mudanças no Código Original
 
 - Adição de limpeza do buffer do teclado para evitar falhas nas inserções de livros.
 - Modificação na função 'inserirLivro' para garantir a inserção em ordem alfabética.
